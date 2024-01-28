@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D5B6CA08-A5B1-43B1-A006-EB8EA809E956"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0A4C28E-235A-4568-9B1D-553406C6C762"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesCristianContreras/Presentation/Views/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "onLoginButtonTap(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D1427C6-1C01-4696-B216-FE005AAD65B3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesCristianContreras/Presentation/Views/Detalle/HeroDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "configureView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D1427C6-1C01-4696-B216-FE005AAD65B3 - 8d9616d57d612d59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesCristianContreras.HeroDetailViewController.configureView() -&gt; ()"
+                  moduleName = "AppPatronesCristianContreras"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Cristo/Documents/BootcampKeepcoding/Practicas/AppPatronesCristianContreras/AppPatronesCristianContreras/Presentation/Views/Detalle/HeroDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "1D1427C6-1C01-4696-B216-FE005AAD65B3 - 8d9616d57d612d59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesCristianContreras.HeroDetailViewController.configureView() -&gt; ()"
+                  moduleName = "AppPatronesCristianContreras"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Cristo/Documents/BootcampKeepcoding/Practicas/AppPatronesCristianContreras/AppPatronesCristianContreras/Presentation/Views/Detalle/HeroDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
